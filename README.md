@@ -1,2 +1,2 @@
 # HelloSourceGenerator
-Hello world in source generators
+Experiments with source generators
